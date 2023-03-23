@@ -1,12 +1,15 @@
-<pre>
-<code>
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
+# 이력서
 
-}
-</code>
-</pre>
----------------------------------------
-이력서
+## 기본 정보
+- 이름 : 윤은지
+- 전공 : 사범대학 교육공학과 
+
+## 교내 경력
+- 이화 다우리 (2023.03~)
+신입생 멘토링 프로그램
+- DnA Lab (2022.06~2023.01)
+교육 통계를 활용한 사회문제 해결
+- AIEDU (2022.06~2023.01)
+4F Process를 이용한 민주주의 교육
+- The best labo (2022.10~2023.01)
+융합수업을 위한 공간조성 방안 제안 
